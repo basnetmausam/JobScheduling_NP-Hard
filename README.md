@@ -1,4 +1,3 @@
-
 ## Building and Running
 
 ### Prerequisites
@@ -14,12 +13,16 @@ Before you can build and run this program, ensure that you have the following pr
 ```
 
 ### Build Instruction
+
 - **Clone the repository**
+
 ```bash
-  git clone https://github.com/your-username/your-repo.git
-  cd your-repo
+  git clone https://github.com/basnetmausam/JobScheduling_NP-Hard.git
+  cd JobScheduling_NP-Hard
 ```
+
 - **Build the program**
+
 ```bash
   make
   ./bin/my_program
