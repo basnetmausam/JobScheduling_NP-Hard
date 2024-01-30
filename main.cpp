@@ -1,5 +1,5 @@
 #include "include/DAG.h"
-
+#include "include/Scheduler.h"
 int main()
 {
     DAG graph;

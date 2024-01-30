@@ -1,4 +1,6 @@
 #include "../include/DAG.h"
+#include "../include/ScheduligUtils.h"
+#include "../include/TopologicalSort.h"
 #include <algorithm>
 
 // Scheduler function to assign jobs to machines and calculate makespan
